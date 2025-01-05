@@ -150,14 +150,13 @@ span {
 /****angle bg****/
 
 .fluid {
-
-    width: 585px;
-    /* max-width: 650px; */
-    height: auto;
-    position: absolute;
-    top: 12%;
-    left: 55%;
-
+  width: 430px;
+  /* max-width: 650px; */
+  height: auto;
+  position: absolute;
+  top: 25%;
+  left: 55%;
+  border-radius: 50%;
 }
 .angle_bg {
   background-color: #222;
@@ -488,7 +487,7 @@ ul.list li {
 .footer_bg {
   border-radius: 43px;
   padding: 40px;
-  background: #af6e76;
+  background: #e66767;
   
   /* background-image: url(/assets/images/bt2.png); */
   background-position: center;
