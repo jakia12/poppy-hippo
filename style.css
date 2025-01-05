@@ -52,7 +52,7 @@ span {
   text-align: center;
   margin-right: 12px;
   width: 40px;
-  background-color: #e66767;
+  background-color: #5a5451;
   height: 40px;
   border-radius: 6px;
   line-height: 40px;
@@ -73,7 +73,7 @@ span {
   position: relative;
   z-index: 99999;
   /* background-color: #192a56; */
-  background-color: #17c0eb;
+  background-color: #c4aca0;
   height: 90vh;
 } /************banner section************/
 .content_box h2 {
@@ -109,8 +109,8 @@ span {
   background-image: linear-gradient(
     to right,
 
-    #e66767,
-    #e1e22a
+    #5a5451,
+    #c4aca0
   );
   /* margin: 10px; */
   /* padding: 15px 45px; */
@@ -156,7 +156,7 @@ span {
   position: absolute;
   top: 25%;
   left: 55%;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 .angle_bg {
   background-color: #222;
@@ -190,7 +190,7 @@ span {
     #4a21ef
   ); */
 
-  background-color: #17c0eb;
+  background-color: #c4aca0;
   padding: 300px 0 0;
   margin-top: -200px;
 }
@@ -226,7 +226,7 @@ span {
   margin: 0 auto;
 } /*************about section*************/
 .about_sec {
-  background: #17c0eb;
+  background: #c4aca0;
   padding: 0 0 90px;
 }
 .abt_title {
@@ -241,7 +241,7 @@ span {
 .abt_wrapper {
   border-radius: 43px;
   padding: 60px 0 2px;
-  background: #17c0eb;
+  background: #c4aca0;
   /* background-image: url(/assets/images/bt.png); */
   background-position: center;
   background-size: contain;
@@ -266,7 +266,7 @@ span {
   margin-right: 40px;
 } */
 .more_abt_sec {
-  background: #17c0eb;
+  background: #c4aca0;
   padding: 80px 0;
 }
 .more_abt_cont h3 {
@@ -331,7 +331,7 @@ ul.list li {
 /***********roadmap section************/
 .roadmap_sec {
   padding: 0px 0 0;
-  background: #17c0eb;
+  background: #c4aca0;
   /* margin-top: -126px; */
   position: relative;
   z-index: 1;
@@ -487,7 +487,7 @@ ul.list li {
 .footer_bg {
   border-radius: 43px;
   padding: 40px;
-  background: #e66767;
+  background: #5a5451;
   
   /* background-image: url(/assets/images/bt2.png); */
   background-position: center;
@@ -725,7 +725,7 @@ h3 {
 .ml11 .letter2 {
   display: inline-block;
   line-height: 1em;
-  color: #e66767;
+  color: #5a5451;
   transform-origin: 0 0;
 }
 
